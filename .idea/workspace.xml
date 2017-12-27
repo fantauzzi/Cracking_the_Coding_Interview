@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ac5eea-9e16-421f-88c7-8875eb43b88e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/hash_tables_ransom_note.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/arrays_left_rotation.py" afterPath="$PROJECT_DIR$/arrays_left_rotation.py" />
+      <change beforePath="$PROJECT_DIR$/strings_making_anagrams.py" afterPath="$PROJECT_DIR$/strings_making_anagrams.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,18 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="strings_making_anagrams.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/strings_making_anagrams.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,6 +37,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/arrays_left_rotation.py" />
         <option value="$PROJECT_DIR$/strings_making_anagrams.py" />
+        <option value="$PROJECT_DIR$/hash_tables_ransom_note.py" />
       </list>
     </option>
   </component>
@@ -117,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in strings_making_anagrams.py">
+  <component name="RunManager" selected="Python tests.Test hash_tables_ransom_note.py">
     <configuration name="Arrays_left_rotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,6 +127,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="hash_tables_ransom_note" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cracking_the_Coding_Interview" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash_tables_ransom_note.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Test arrays_left_rotation.py" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,6 +158,21 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;arrays_left_rotation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Test hash_tables_ransom_note.py" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cracking_the_Coding_Interview" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;hash_tables_ransom_note.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
@@ -196,17 +220,20 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/strings_making_anagrams.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Test arrays_left_rotation.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Arrays_left_rotation" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for strings_making_anagrams.test_basic" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in strings_making_anagrams.py" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Test hash_tables_ransom_note.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Test arrays_left_rotation.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Arrays_left_rotation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.hash_tables_ransom_note" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for strings_making_anagrams.test_basic" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.py.test in strings_making_anagrams.py" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in strings_making_anagrams.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for strings_making_anagrams.test_basic" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Arrays_left_rotation" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.hash_tables_ransom_note" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in strings_making_anagrams.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for strings_making_anagrams.test_basic" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Arrays_left_rotation" />
       </list>
     </recent_temporary>
   </component>
@@ -227,26 +254,17 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 06m 29s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_hash_tables_ransom_note_py - 2017.12.27 at 17h 17m 30s.xml">
+      <configuration name="Test hash_tables_ransom_note.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 06m 50s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_hash_tables_ransom_note_py - 2017.12.27 at 17h 18m 35s.xml">
+      <configuration name="Test hash_tables_ransom_note.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 08m 17s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_hash_tables_ransom_note_py - 2017.12.27 at 17h 19m 41s.xml">
+      <configuration name="Test hash_tables_ransom_note.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 10m 56s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 10m 58s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 14m 37s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 16m 08s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_hash_tables_ransom_note_py - 2017.12.27 at 17h 19m 48s.xml">
+      <configuration name="Test hash_tables_ransom_note.py" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 16m 11s.xml">
       <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
@@ -257,15 +275,23 @@
     <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 18m 29s.xml">
       <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 41m 58s.xml">
+      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 44m 38s.xml">
+      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 47m 55s.xml">
+      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1975" y="-4" width="2505" height="1444" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2503028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33020344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33020344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -330,14 +356,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arrays_left_rotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -359,8 +377,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/strings_making_anagrams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="370">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrays_left_rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash_tables_ransom_note.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
