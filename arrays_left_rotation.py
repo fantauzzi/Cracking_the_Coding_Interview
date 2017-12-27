@@ -47,6 +47,12 @@ def test_negative_count():
     with pytest.raises(ValueError):
         array_left_rotation([1,2], -1)
 
+def test_original_unchanged():
+    a = [1, 2, 3, 4, 5]
+    r = array_left_rotation(a, 1)
+    assert r != a
+    assert r is not a
+
 if __name__ == '__main__':
     n, k = map(int, input().strip().split(' '))
     a = list(map(int, input().strip().split(' ')))
