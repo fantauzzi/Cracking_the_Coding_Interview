@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ac5eea-9e16-421f-88c7-8875eb43b88e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/hash_tables_ransom_note.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/linked_list_detect_a_cycle.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/strings_making_anagrams.py" afterPath="$PROJECT_DIR$/strings_making_anagrams.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +16,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="linked_list_detect_a_cycle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/linked_list_detect_a_cycle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="16" column="40" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,14 +48,15 @@
         <option value="$PROJECT_DIR$/arrays_left_rotation.py" />
         <option value="$PROJECT_DIR$/strings_making_anagrams.py" />
         <option value="$PROJECT_DIR$/hash_tables_ransom_note.py" />
+        <option value="$PROJECT_DIR$/linked_list_detect_a_cycle.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1763" />
-    <option name="y" value="128" />
-    <option name="width" value="2505" />
-    <option name="height" value="1436" />
+    <option name="x" value="1676" />
+    <option name="y" value="165" />
+    <option name="width" value="2503" />
+    <option name="height" value="1428" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -58,6 +69,11 @@
             <id>Python</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -93,7 +109,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RunDashboard">
@@ -108,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Test hash_tables_ransom_note.py">
+  <component name="RunManager" selected="Python tests.Test linked_list_detect_a_cycle.py">
     <configuration name="Arrays_left_rotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,6 +191,21 @@
       <option name="_new_target" value="&quot;hash_tables_ransom_note.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="Test linked_list_detect_a_cycle.py" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cracking_the_Coding_Interview" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;linked_list_detect_a_cycle.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,6 +220,21 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test for linked_list_detect_a_cycle.test_cycle" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cracking_the_Coding_Interview" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;linked_list_detect_a_cycle.test_cycle&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="py.test for strings_making_anagrams.test_basic" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,20 +266,23 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/strings_making_anagrams.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="6">
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Test hash_tables_ransom_note.py" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Test arrays_left_rotation.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Arrays_left_rotation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.hash_tables_ransom_note" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for strings_making_anagrams.test_basic" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.py.test in strings_making_anagrams.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Test linked_list_detect_a_cycle.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Arrays_left_rotation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.hash_tables_ransom_note" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.py.test for strings_making_anagrams.test_basic" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.py.test in strings_making_anagrams.py" />
+      <item index="7" class="java.lang.String" itemvalue="Python tests.py.test for linked_list_detect_a_cycle.test_cycle" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.hash_tables_ransom_note" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in strings_making_anagrams.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for strings_making_anagrams.test_basic" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Arrays_left_rotation" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for linked_list_detect_a_cycle.test_cycle" />
+        <item index="1" class="java.lang.String" itemvalue="Python.hash_tables_ransom_note" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in strings_making_anagrams.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for strings_making_anagrams.test_basic" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Arrays_left_rotation" />
       </list>
     </recent_temporary>
   </component>
@@ -254,56 +303,57 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_hash_tables_ransom_note_py - 2017.12.27 at 17h 17m 30s.xml">
-      <configuration name="Test hash_tables_ransom_note.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 44m 34s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Test_hash_tables_ransom_note_py - 2017.12.27 at 17h 18m 35s.xml">
-      <configuration name="Test hash_tables_ransom_note.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 45m 21s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Test_hash_tables_ransom_note_py - 2017.12.27 at 17h 19m 41s.xml">
-      <configuration name="Test hash_tables_ransom_note.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 45m 43s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Test_hash_tables_ransom_note_py - 2017.12.27 at 17h 19m 48s.xml">
-      <configuration name="Test hash_tables_ransom_note.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 46m 18s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 16m 11s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 46m 21s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 16m 20s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 48m 35s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 18m 29s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 50m 33s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 41m 58s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 50m 36s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 44m 38s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 52m 26s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_strings_making_anagrams_py - 2017.12.27 at 16h 47m 55s.xml">
-      <configuration name="py.test in strings_making_anagrams.py" configurationId="tests" />
+    <history-entry file="Test_linked_list_detect_a_cycle_py - 2017.12.27 at 18h 59m 22s.xml">
+      <configuration name="Test linked_list_detect_a_cycle.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1975" y="-4" width="2505" height="1444" extended-state="6" />
+    <frame x="1676" y="165" width="2507" height="1452" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2503028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24989875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33020344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33012047" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3998435" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39839357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -312,7 +362,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linked_list_detect_a_cycle.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -356,12 +413,19 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/linked_list_detect_a_cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="175">
             <caret line="4" column="96" lean-forward="false" selection-start-line="4" selection-start-column="96" selection-end-line="4" selection-end-column="96" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -379,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -387,7 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -395,6 +457,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list_detect_a_cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="18" />
           <folding />
         </state>
       </provider>
