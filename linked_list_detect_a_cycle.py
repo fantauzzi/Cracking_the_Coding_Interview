@@ -10,7 +10,8 @@ A Node is defined as:
 """
 
 
-def has_cycle(head):
+# Implementation that takes O(n) additional memory, storing a reference to visited nodes in a set.
+def has_cycle3(head):
     current = head
     traversed = set()
     while current is not None:
@@ -18,6 +19,30 @@ def has_cycle(head):
             return True;
         traversed.add(current)
         current = current.next
+    return False
+
+# Implementation that takes O(1) additional memory, with Floyd algorithm.
+def has_cycle2(head):
+    if head is None:
+        return False
+    tortoise = head.next
+    hare = None if tortoise is None else tortoise.next
+    while tortoise is not None and hare is not None:
+        if tortoise is hare:
+            return True
+        tortoise = tortoise.next
+        hare = None if hare.next is None else hare.next.next
+    return False
+
+# Niftier implementation of Floyd algorithm
+def has_cycle(head):
+    tortoise = head
+    hare = head
+    while hare is not None and hare.next is not None:
+        tortoise = tortoise.next
+        hare = hare.next.next
+        if tortoise is hare:
+            return True
     return False
 
 
