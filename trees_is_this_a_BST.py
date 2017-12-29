@@ -32,6 +32,22 @@ def get_min_max(root):
     return the_min, the_max, True
 
 
-def checkBST(root):
+def checkBST2(root):
     _, _, is_BST = get_min_max(root)
+    return is_BST
+
+
+# A more compact solution
+def check_min_max(node, the_min, the_max):
+    if node.data <= the_min or node.data >= the_max:
+        return False
+    if node.left and not check_min_max(node.left, the_min, min(the_max, node.data)):
+        return False
+    if node.right and not check_min_max(node.right, max(the_min, node.data), the_max):
+        return False
+    return True
+
+
+def checkBST(root):
+    is_BST = check_min_max(root, float('-inf'), float('inf'))
     return is_BST
