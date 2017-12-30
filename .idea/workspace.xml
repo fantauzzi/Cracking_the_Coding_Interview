@@ -6,9 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ac5eea-9e16-421f-88c7-8875eb43b88e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/heaps_find_the_running_meadian.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_heaps_find_the_running_meadian.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/heaps_find_the_running_meadian.py" afterPath="$PROJECT_DIR$/heaps_find_the_running_meadian.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +20,8 @@
       <file leaf-file-name="heaps_find_the_running_meadian.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/heaps_find_the_running_meadian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="300">
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding>
                 <element signature="e#16#26#0" expanded="true" />
               </folding>
@@ -333,15 +331,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 35m 04s.xml">
-      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 35m 14s.xml">
-      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 35m 37s.xml">
-      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 35m 46s.xml">
       <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
@@ -361,6 +350,15 @@
       <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 15h 36m 00s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 17h 01m 05s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 17h 05m 03s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 17h 05m 34s.xml">
       <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -731,8 +729,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/heaps_find_the_running_meadian.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="300">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <element signature="e#16#26#0" expanded="true" />
           </folding>
