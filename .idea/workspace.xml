@@ -6,8 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ac5eea-9e16-421f-88c7-8875eb43b88e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/heaps_find_the_running_meadian.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_heaps_find_the_running_meadian.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/trees_is_this_a_BST.py" afterPath="$PROJECT_DIR$/trees_is_this_a_BST.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,21 +19,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="trees_is_this_a_BST.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/trees_is_this_a_BST.py">
+      <file leaf-file-name="heaps_find_the_running_meadian.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/heaps_find_the_running_meadian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="51" column="30" lean-forward="false" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="314">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <element signature="e#16#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_trees_is_this_a_BST.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_trees_is_this_a_BST.py">
+      <file leaf-file-name="test_heaps_find_the_running_meadian.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_heaps_find_the_running_meadian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+            <state relative-caret-position="175">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="python.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.local/python3.5/lib/python3.5/site-packages/_pytest/python.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2925">
+              <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,6 +83,8 @@
         <option value="$PROJECT_DIR$/test_queues_two_stacks.py" />
         <option value="$PROJECT_DIR$/test_trees_is_this_a_BST.py" />
         <option value="$PROJECT_DIR$/trees_is_this_a_BST.py" />
+        <option value="$PROJECT_DIR$/test_heaps_find_the_running_meadian.py" />
+        <option value="$PROJECT_DIR$/heaps_find_the_running_meadian.py" />
       </list>
     </option>
   </component>
@@ -112,6 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,8 +142,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_trees_is_this_a_BST.py">
+  <component name="RunManager" selected="Python tests.py.test in test_heaps_find_the_running_meadian.py">
     <configuration name="Test arrays_left_rotation.py" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,21 +221,6 @@
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="py.test for test_stacks_balanced_brackets.test_with_random_valid" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Cracking_the_Coding_Interview" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_stacks_balanced_brackets.test_with_random_valid&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
     <configuration name="py.test for test_trees_is_this_a_BST.test_basic_yes" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,6 +235,21 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_trees_is_this_a_BST.test_basic_yes&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="py.test in test_heaps_find_the_running_meadian.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cracking_the_Coding_Interview" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_heaps_find_the_running_meadian.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="py.test in test_queues_two_stacks.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,18 +301,18 @@
       <item index="1" class="java.lang.String" itemvalue="Python tests.Test arrays_left_rotation.py" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.Test linked_list_detect_a_cycle.py" />
       <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_stacks_balanced_brackets.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_stacks_balanced_brackets.test_with_random_valid" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.py.test in test_queues_two_stacks.py" />
-      <item index="6" class="java.lang.String" itemvalue="Python tests.py.test in test_trees_is_this_a_BST.py" />
-      <item index="7" class="java.lang.String" itemvalue="Python tests.py.test for test_trees_is_this_a_BST.test_basic_yes" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_queues_two_stacks.py" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.py.test in test_trees_is_this_a_BST.py" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.py.test for test_trees_is_this_a_BST.test_basic_yes" />
+      <item index="7" class="java.lang.String" itemvalue="Python tests.py.test in test_heaps_find_the_running_meadian.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_trees_is_this_a_BST.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_trees_is_this_a_BST.test_basic_yes" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_queues_two_stacks.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_stacks_balanced_brackets.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_stacks_balanced_brackets.test_with_random_valid" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_heaps_find_the_running_meadian.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_trees_is_this_a_BST.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_trees_is_this_a_BST.test_basic_yes" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_queues_two_stacks.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_stacks_balanced_brackets.py" />
       </list>
     </recent_temporary>
   </component>
@@ -316,35 +333,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 00h 36m 57s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 35m 04s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 00h 36m 58s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 35m 14s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 00h 38m 03s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 35m 37s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 00h 42m 51s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 35m 46s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 00h 43m 12s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 36m 02s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 00h 43m 24s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 13h 37m 32s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 00h 44m 54s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 15h 19m 18s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 00h 51m 15s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 15h 20m 22s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 00h 54m 41s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 15h 28m 25s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_trees_is_this_a_BST_py - 2017.12.29 at 12h 30m 16s.xml">
-      <configuration name="py.test in test_trees_is_this_a_BST.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_heaps_find_the_running_meadian_py - 2017.12.30 at 15h 36m 00s.xml">
+      <configuration name="py.test in test_heaps_find_the_running_meadian.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -375,12 +392,29 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_heaps_find_the_running_meadian.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="20" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>length%2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.heap[length//2]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>len(b)</expression-string>
         <language-id>Python</language-id>
@@ -419,11 +453,58 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/heaps_find_the_running_meadian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/python3.5/lib/python3.5/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2925">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_heaps_find_the_running_meadian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heaps_find_the_running_meadian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_heaps_find_the_running_meadian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trees_is_this_a_BST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,7 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -439,7 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,7 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -455,7 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -463,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,15 +701,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/trees_is_this_a_BST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="51" column="30" lean-forward="false" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+        <state relative-caret-position="464">
+          <caret line="47" column="15" lean-forward="true" selection-start-line="47" selection-start-column="15" selection-end-line="47" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/python3.5/lib/python3.5/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2925">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_heaps_find_the_running_meadian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heaps_find_the_running_meadian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
