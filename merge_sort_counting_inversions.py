@@ -1,6 +1,6 @@
 #!/bin/python3
 
-import sys
+import kernprof
 
 def count_inversions_bf(arr):
     # Complete this function

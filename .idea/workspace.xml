@@ -6,9 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ac5eea-9e16-421f-88c7-8875eb43b88e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/merge_sort_counting_inversions.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_merge_sort_counting_inversions.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/merge_sort_counting_inversions.py" afterPath="$PROJECT_DIR$/merge_sort_counting_inversions.py" />
+      <change beforePath="$PROJECT_DIR$/test_merge_sort_counting_inversions.py" afterPath="$PROJECT_DIR$/test_merge_sort_counting_inversions.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +22,8 @@
       <file leaf-file-name="merge_sort_counting_inversions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/merge_sort_counting_inversions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+            <state relative-caret-position="444">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -32,8 +32,8 @@
       <file leaf-file-name="test_merge_sort_counting_inversions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_merge_sort_counting_inversions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+            <state relative-caret-position="408">
+              <caret line="65" column="26" lean-forward="false" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -87,10 +87,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2900" />
-    <option name="y" value="207" />
-    <option name="width" value="2501" />
-    <option name="height" value="1420" />
+    <option name="x" value="2207" />
+    <option name="y" value="217" />
+    <option name="width" value="1920" />
+    <option name="height" value="1204" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -127,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,10 +139,11 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RunDashboard">
@@ -337,51 +337,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 12h 54m 12s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 34m 04s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 12h 54m 20s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 34m 24s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 13h 00m 49s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 36m 12s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 13h 00m 56s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 38m 06s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 13h 01m 38s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 38m 28s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 13h 01m 54s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 39m 00s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 13h 02m 26s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 39m 36s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 13h 02m 47s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 43m 27s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 13h 03m 20s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 44m 05s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 13h 03m 43s.xml">
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 44m 16s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2900" y="207" width="2507" height="1452" extended-state="6" />
+    <frame x="1975" y="-4" width="2505" height="1444" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24949372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19036047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41379312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41379312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3977546" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3977546" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -813,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,7 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="140" column="0" lean-forward="false" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -829,22 +827,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22147">
           <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/merge_sort_counting_inversions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        <state relative-caret-position="444">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_merge_sort_counting_inversions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        <state relative-caret-position="408">
+          <caret line="65" column="26" lean-forward="false" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
           <folding />
         </state>
       </provider>
