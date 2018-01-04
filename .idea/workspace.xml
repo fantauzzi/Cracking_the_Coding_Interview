@@ -6,9 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ac5eea-9e16-421f-88c7-8875eb43b88e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/hash_ice_cream_parlor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_hash_ice_cream_parlor.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/merge_sort_counting_inversions.py" afterPath="$PROJECT_DIR$/merge_sort_counting_inversions.py" />
-      <change beforePath="$PROJECT_DIR$/test_merge_sort_counting_inversions.py" afterPath="$PROJECT_DIR$/test_merge_sort_counting_inversions.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,21 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="merge_sort_counting_inversions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/merge_sort_counting_inversions.py">
+      <file leaf-file-name="hash_ice_cream_parlor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hash_ice_cream_parlor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_merge_sort_counting_inversions.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_merge_sort_counting_inversions.py">
+      <file leaf-file-name="test_hash_ice_cream_parlor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_hash_ice_cream_parlor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="65" column="26" lean-forward="false" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+            <state relative-caret-position="250">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,6 +52,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>two_f</find>
+      <find>2506500183</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,16 +83,18 @@
         <option value="$PROJECT_DIR$/test_tries_contacts.py" />
         <option value="$PROJECT_DIR$/test_sorting_comparator.py" />
         <option value="$PROJECT_DIR$/sorting_comparator.py" />
-        <option value="$PROJECT_DIR$/merge_sort_counting_inversions.py" />
         <option value="$PROJECT_DIR$/test_merge_sort_counting_inversions.py" />
+        <option value="$PROJECT_DIR$/merge_sort_counting_inversions.py" />
+        <option value="$PROJECT_DIR$/test_hash_ice_cream_parlor.py" />
+        <option value="$PROJECT_DIR$/hash_ice_cream_parlor.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2207" />
-    <option name="y" value="217" />
+    <option name="x" value="2023" />
+    <option name="y" value="204" />
     <option name="width" value="1920" />
-    <option name="height" value="1204" />
+    <option name="height" value="1232" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -127,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +144,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,7 +162,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_merge_sort_counting_inversions.py">
+  <component name="RunManager" selected="Python.hash_ice_cream_parlor">
+    <configuration name="hash_ice_cream_parlor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cracking_the_Coding_Interview" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hash_ice_cream_parlor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="merge_sort_counting_inversions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,7 +277,7 @@
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="py.test for test_tries_contacts.test_pass" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="py.test in test_hash_ice_cream_parlor.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -267,22 +289,7 @@
       <module name="Cracking_the_Coding_Interview" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_tries_contacts.test_pass&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-    </configuration>
-    <configuration name="py.test in test_heaps_find_the_running_meadian.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Cracking_the_Coding_Interview" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_heaps_find_the_running_meadian.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_hash_ice_cream_parlor.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="py.test in test_merge_sort_counting_inversions.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -304,19 +311,19 @@
       <item index="0" class="java.lang.String" itemvalue="Python tests.Test hash_tables_ransom_note.py" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Test arrays_left_rotation.py" />
       <item index="2" class="java.lang.String" itemvalue="Python tests.Test linked_list_detect_a_cycle.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_heaps_find_the_running_meadian.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_tries_contacts.test_pass" />
-      <item index="5" class="java.lang.String" itemvalue="Python.sorting_comparator" />
-      <item index="6" class="java.lang.String" itemvalue="Python tests.py.test in test_merge_sort_counting_inversions.py" />
-      <item index="7" class="java.lang.String" itemvalue="Python.merge_sort_counting_inversions" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sorting_comparator" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_merge_sort_counting_inversions.py" />
+      <item index="5" class="java.lang.String" itemvalue="Python.merge_sort_counting_inversions" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.py.test in test_hash_ice_cream_parlor.py" />
+      <item index="7" class="java.lang.String" itemvalue="Python.hash_ice_cream_parlor" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_merge_sort_counting_inversions.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.merge_sort_counting_inversions" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sorting_comparator" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_tries_contacts.test_pass" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_heaps_find_the_running_meadian.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python.hash_ice_cream_parlor" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_hash_ice_cream_parlor.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.merge_sort_counting_inversions" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_merge_sort_counting_inversions.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sorting_comparator" />
       </list>
     </recent_temporary>
   </component>
@@ -337,23 +344,14 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 34m 04s.xml">
-      <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_hash_ice_cream_parlor_py - 2018.01.04 at 12h 49m 16s.xml">
+      <configuration name="py.test in test_hash_ice_cream_parlor.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 34m 24s.xml">
-      <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_hash_ice_cream_parlor_py - 2018.01.04 at 12h 50m 10s.xml">
+      <configuration name="py.test in test_hash_ice_cream_parlor.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 36m 12s.xml">
-      <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 38m 06s.xml">
-      <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 38m 28s.xml">
-      <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 39m 00s.xml">
-      <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_hash_ice_cream_parlor_py - 2018.01.04 at 13h 02m 52s.xml">
+      <configuration name="py.test in test_hash_ice_cream_parlor.py" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 39m 36s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
@@ -367,9 +365,18 @@
     <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 44m 16s.xml">
       <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 14h 46m 37s.xml">
+      <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 15h 06m 08s.xml">
+      <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_merge_sort_counting_inversions_py - 2018.01.02 at 15h 21m 47s.xml">
+      <configuration name="py.test in test_merge_sort_counting_inversions.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1975" y="-4" width="2505" height="1444" extended-state="6" />
+    <frame x="2023" y="204" width="2507" height="1452" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19036047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -377,7 +384,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41379312" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3576584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -402,8 +409,18 @@
           <line>7</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/merge_sort_counting_inversions.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/merge_sort_counting_inversions.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="43" />
+      <option name="time" value="51" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -474,20 +491,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_tries_contacts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tries_contacts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_tries_contacts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -832,16 +835,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/merge_sort_counting_inversions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="26">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_merge_sort_counting_inversions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="65" column="26" lean-forward="false" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        <state relative-caret-position="453">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="67" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_hash_ice_cream_parlor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash_ice_cream_parlor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
